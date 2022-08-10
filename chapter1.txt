@@ -1,1 +1,2 @@
-Today i learn about version control, git and github
+I learn about version control, git and github
+I learn how branching works in git
